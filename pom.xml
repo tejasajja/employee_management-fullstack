@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.javaguides</groupId>
-    <artifactId>employee_management-backend</artifactId>
+    <artifactId>employee_management-fullstack</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>employee_management-backend</name>
     <description>employee_management-backend</description>
