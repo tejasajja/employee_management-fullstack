@@ -12,7 +12,7 @@
     <groupId>com.javaguides</groupId>
     <artifactId>employee_management-fullstack</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging> <!-- Set packaging type to WAR -->
+    <packaging>jar</packaging> <!-- Set packaging type to WAR -->
     <name>employee_management-backend</name>
     <description>employee_management-backend</description>
     <properties>
